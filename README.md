@@ -1,4 +1,5 @@
 🌊 Unity Water Shader Graph
+
 📌 English
 This repository includes Shader Graph and material files to create realistic water effects in Unity. Perfect for simulating water surfaces and depth-based visuals in games and simulations.
 
@@ -19,6 +20,10 @@ Customize the Shader Graph to fit your scene’s needs (wave speed, color, depth
 📄 License
 MIT — free to use and modify in any type of project.
 
+Exanple:
+![Su Örneği](media/water.png)
+
+
 📌 Türkçe
 Unity için gerçekçi su efektleri oluşturmanıza yardımcı olacak Shader Graph ve materyal dosyalarını içeren bir projedir. Oyunlarda ve simülasyonlarda su yüzeyi ve derinlik bazlı efektleri canlandırmak için idealdir.
 
@@ -38,3 +43,6 @@ Shader Graph üzerindeki parametreleri ihtiyacınıza göre özelleştirin (dalg
 
 📄 Lisans
 MIT — her türlü projede özgürce kullanabilir ve düzenleyebilirsiniz.
+
+Örnek resim:
+![Su Örneği](media/water.png)
